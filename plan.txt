@@ -1,0 +1,11 @@
+User Info:
+
+Name
+Designation
+Mobile No
+Address
+Email
+Gender
+Image
+Marital Status
+Company
